@@ -29,6 +29,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Curso de desenvolvimento WEB oferecido pela Rocketseat.
 
+Acesse o projeto: <p> https://thomascostta.github.io/my-profile-rocktseat/</p>
+
+
 
 ## 🔖 Layout
 
